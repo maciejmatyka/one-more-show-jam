@@ -1,0 +1,107 @@
+{
+  "version": "v0.18.0 RC1",
+  "author": "Maciej Matyka",
+  "engine": "Unreal Engine 5.8.4",
+  "platform": "Win64 Development",
+  "checks": {
+    "distinct_checks": 194,
+    "passed": 194,
+    "failed": 0,
+    "flow": 26,
+    "presentation": 112,
+    "real_finale": 56,
+    "note": "The same 112-check presentation suite was also invoked by the localization flag; that duplicate run is not counted twice."
+  },
+  "localization": {
+    "entries": 214,
+    "languages": [
+      "en",
+      "pl",
+      "fr"
+    ],
+    "normal": "System language with English fallback",
+    "contest": "English-only marker, flags hidden; menu visually inspected"
+  },
+  "actual_physics_acts": [
+    {
+      "act": 1,
+      "score": 94.42201232910156,
+      "cuts": 2,
+      "pose_jump_cm": 0,
+      "preview_frames": 0,
+      "can_continue": true,
+      "ready_live_frames": 24,
+      "applause_frames": 23,
+      "restless_frames": 0
+    },
+    {
+      "act": 2,
+      "score": 98.16117858886719,
+      "cuts": 2,
+      "pose_jump_cm": 0,
+      "preview_frames": 0,
+      "can_continue": true,
+      "ready_live_frames": 24,
+      "applause_frames": 25,
+      "restless_frames": 0
+    },
+    {
+      "act": 3,
+      "score": 91.642578125,
+      "cuts": 3,
+      "pose_jump_cm": 0,
+      "preview_frames": 0,
+      "can_continue": true,
+      "ready_live_frames": 24,
+      "applause_frames": 20,
+      "restless_frames": 0
+    }
+  ],
+  "average": 94.74192810058594,
+  "packages": [
+    {
+      "file": "MaciejMatyka_OneMoreShow.zip",
+      "bytes": 390940793,
+      "sha256": "8f9287d67cfe537cecd4b96fb4781b94b09a671785f8d9c636685babcdac235b",
+      "entries": 49,
+      "verification": "Every decompressed entry matches source SHA-256"
+    },
+    {
+      "file": "OneMoreShow-v0.18.0-RC1-Unreal-source.zip",
+      "bytes": 119822659,
+      "sha256": "cb08da648991532d84f7634ed80152d75c328cb674222ea738d521962b1594f8",
+      "entries": 106,
+      "verification": "Every decompressed entry matches source SHA-256"
+    }
+  ],
+  "video": {
+    "file": "OneMoreShow-RC1-Gameplay.mp4",
+    "duration_seconds": 48.2,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 1446,
+    "codec": "H.264 / AAC",
+    "sample_rate": 48000,
+    "channels": 2,
+    "sha256": "be4a417373b3aba0401a46588e3d5c46c5ac99c9c7ef52000efd3ee8fd252f95",
+    "full_decode": "PASS",
+    "encoded_lufs": -17.19,
+    "encoded_true_peak_dbtp": -1.6,
+    "review": "Sampled every shot and key transitions; complete decode and loudness measurement. Full independent subjective audiovisual review not completed."
+  },
+  "glass_box": {
+    "file": "OneMoreShow-GlassBox-RC1.pdf",
+    "pages": 12,
+    "translated_user_messages": 45,
+    "sha256": "8b5c3cc80b131bc31aaf0fe82214d8c73025b9fb0afa5a67f0637a733abd9eeb",
+    "visual_review": "All twelve pages inspected; changed pages re-rendered and inspected."
+  },
+  "limitations": [
+    "No physical mobile-device or minimum-spec PC testing.",
+    "No NVIDIA-specific implementation.",
+    "Late-show threshold tests are synthetic fixtures, not 100 human playthroughs.",
+    "The provider-intro/logo requirement needs organizer/provider clarification before final entry.",
+    "The entrant must submit manually; no contest submission has been performed."
+  ]
+}
