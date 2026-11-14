@@ -474,21 +474,41 @@
     "source": "Snapshot: Windows v0.20.1 + Android alpha01 / Not a statement that the jam has been submitted"
   },
   {
-    "section": "BACKSTAGE / SOURCES & SUBMISSION",
-    "title": "The programme notes",
-    "deck": "Traceable prompts, credited materials and a public route for the judges.",
-    "visual": "credits",
+    "section": "BACKSTAGE / THE FINAL BOW",
+    "title": "The show, in numbers",
+    "deck": "Human-directed. Built with Codex. Run @ UNREAL.",
+    "visual": "production-statistics",
     "quote": null,
     "cols": [
       [
-        "WHY THIS FORMAT",
-        "Glass Box requires a dev log with the entry during the contest period. This English PDF and its public web reader are our chosen format, not an organizer-approved template. The game and 30-60 second video are separate deliverables."
+        "65 HOURS ELAPSED",
+        "64 hours 47 minutes from the first prompt to the final Android correction report; calendar time including breaks."
       ],
       [
-        "HUMAN HANDOFF",
-        "The entrant submits the jam entry. A prior provider-intro question remains a recorded handoff item; the current jam FAQ permits required attribution, but no specific organizer reply is recorded here."
+        "108 RECORDED INPUTS",
+        "89 prompts/comments plus 19 answers or confirmations. Snapshot through P0108, including the statistics request."
+      ],
+      [
+        "61 GIT RESTORE POINTS",
+        "Named, preserved Git milestones."
+      ],
+      [
+        "2 PLAYABLE PLATFORMS",
+        "Windows v0.21.0 RC2 and Android v0.21.1 RC2.1."
+      ],
+      [
+        "MACIEJ MATYKA / HUMAN DIRECTION",
+        "Original concept and sketch, creative direction, selection, playtest feedback and final decisions."
+      ],
+      [
+        "CODEX / DEVELOPMENT PARTNER",
+        "Implementation, procedural art and animation, tools, builds, tests, trailer editing and documentation."
+      ],
+      [
+        "MEASUREMENT LIMITS",
+        "Human typing time and percentage shares of authorship were not measured. Existing full conversation exports and pages 1-23 retain their earlier dated scope."
       ]
     ],
-    "source": "Rules sections 7(i), 10 and 17; live jam page checked 14 Nov 2026 / Rules file version2872233926271"
+    "source": "Stats snapshot: 14 November 2026, 23:27 CET. Closing page updated 15 November 2026."
   }
 ]

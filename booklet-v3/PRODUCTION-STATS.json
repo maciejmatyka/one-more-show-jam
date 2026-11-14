@@ -1,0 +1,52 @@
+{
+  "snapshot": "2026-11-14T23:27:33+01:00",
+  "edition_revision": "2026-11-15",
+  "tagline": "Human-directed. Built with Codex. Run @ UNREAL.",
+  "hours_elapsed_rounded": 65,
+  "hours_elapsed_exact": 64.77478456722223,
+  "archive_inputs": 108,
+  "prompts_and_comments": 89,
+  "answers_and_confirmations": 19,
+  "git_milestones": 61,
+  "platforms": [
+    "Windows v0.21.0 RC2",
+    "Android v0.21.1 RC2.1"
+  ],
+  "source_line_counts": {
+    "game_module_with_qa_and_capture": {
+      "files": 45,
+      "physical_lines": 4126,
+      "nonblank_lines": 4066
+    },
+    "game_excluding_explicit_qa_capture_files": {
+      "files": 32,
+      "physical_lines": 3211,
+      "nonblank_lines": 3162
+    },
+    "explicit_qa_capture_files": {
+      "files": 13,
+      "physical_lines": 915,
+      "nonblank_lines": 904
+    },
+    "production_tools": {
+      "files": 410,
+      "physical_lines": 13555,
+      "nonblank_lines": 13210
+    },
+    "standalone_prototypes": {
+      "files": 7,
+      "physical_lines": 500,
+      "nonblank_lines": 486
+    }
+  },
+  "package_bytes": {
+    "MaciejMatyka_TheLastShow.zip": 408904212,
+    "TheLastShow-v0.21.1-Android-RC2.1.apk": 186576654
+  },
+  "workspace_logical_bytes": 230996559230,
+  "workspace_file_count": 113734,
+  "recorded_codex_turn_hours": 26.224506789444447,
+  "human_typing_time": null,
+  "percentage_authorship_split": null,
+  "private_measurement_sha256": "dbb652bfdd7920760c4a073cc6b709d89ff62aa7d3a15a63955c9d2ac668ec7f"
+}
