@@ -1,0 +1,94 @@
+{
+  "checks": [
+    {
+      "test": "Landscape and startup letter visible",
+      "passed": true,
+      "physical": [
+        2460,
+        1080
+      ],
+      "render": [
+        1632,
+        720
+      ]
+    },
+    {
+      "test": "Native letter flags select EN PL FR",
+      "passed": true
+    },
+    {
+      "test": "No language flags on menu",
+      "passed": true
+    },
+    {
+      "test": "Touch-sized sound button available",
+      "passed": true,
+      "height": 57.5999755859375
+    },
+    {
+      "test": "Native taps toggle sound both ways",
+      "passed": true
+    },
+    {
+      "test": "Reset confirmation cancels without reset",
+      "passed": true
+    },
+    {
+      "test": "First visit completes one full preview",
+      "passed": true
+    },
+    {
+      "test": "Retry does not replay automatically",
+      "passed": true
+    },
+    {
+      "test": "Held Replay button does not immediately skip shadow",
+      "passed": true
+    },
+    {
+      "test": "Manual replay completes and returns to live Ready",
+      "passed": true
+    },
+    {
+      "test": "Native swipe cuts a rope without teleport",
+      "passed": true,
+      "cuts": 1,
+      "pose_jump": 0
+    },
+    {
+      "test": "Background freezes attempt clock and cut count",
+      "passed": true
+    },
+    {
+      "test": "Foreground continues same attempt without extra cut",
+      "passed": true
+    },
+    {
+      "test": "Android lifecycle callbacks preserve exact logical state",
+      "passed": true,
+      "background": [
+        [
+          "3",
+          "1.684641",
+          "1"
+        ]
+      ],
+      "foreground": [
+        [
+          "3",
+          "1.684641",
+          "1"
+        ]
+      ]
+    },
+    {
+      "test": "Quit button exits process",
+      "passed": true
+    },
+    {
+      "test": "Provider movie releases texture and shutdown has no fatal error",
+      "passed": true
+    }
+  ],
+  "scope": "Native ADB touch/launcher/Home input on emulator; isolated QA saves. No physical phone FPS or subjective audio claim."
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "5.8.4-58902052+++UE5+Release-5.8",
+  "physics": {
+    "verified_cases": 27,
+    "distinct_cases": 9,
+    "runs": [
+      "serial",
+      "two-processes",
+      "release"
+    ],
+    "reference_scores": [
+      100,
+      100,
+      100
+    ],
+    "max_body_joint_anchor_error_cm": 0.30472567677497864,
+    "scope": "Actual packaged Chaos simulation; body-center height is not a full mesh penetration test; one hardware configuration only"
+  }
+}

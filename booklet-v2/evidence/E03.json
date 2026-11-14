@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "frames_compared": 2684,
+  "frames_pixel_identical": 2684,
+  "coverage_percent": 100,
+  "seconds": 44.733333333333334,
+  "all_edited_shots_consecutive_native_ticks": true
+}
