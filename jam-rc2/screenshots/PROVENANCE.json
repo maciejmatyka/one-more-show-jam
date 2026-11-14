@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01-rehearsal.jpg",
+    "origin": "Unedited gameplay capture, only scaled and JPEG encoded",
+    "source_clip": "rehearsal-act1-play",
+    "source_frame": "frame-00130.png",
+    "source_game": "0.20.1; RC2 has identical gameplay and art",
+    "capture": "actual Chaos, automated player input",
+    "source_sha256": "f4f9c817f240f738f841ddd8865602f886e09fb98760749d81f6193e14335f77"
+  },
+  {
+    "file": "02-programme.jpg",
+    "origin": "Unedited gameplay capture, only scaled and JPEG encoded",
+    "source_clip": "menu-unlocked",
+    "source_frame": "frame-00070.png",
+    "source_game": "0.20.1; RC2 has identical gameplay and art",
+    "capture": "actual Chaos, automated player input",
+    "source_sha256": "b56e3cb041e02b53f413fc307799a9cb96fa9e351cdd210bd79c4441101c5ac6"
+  },
+  {
+    "file": "03-grand-finale.jpg",
+    "origin": "Unedited gameplay capture, only scaled and JPEG encoded",
+    "source_clip": "finale-act3-play",
+    "source_frame": "frame-00210.png",
+    "source_game": "0.20.1; RC2 has identical gameplay and art",
+    "capture": "actual Chaos, automated player input",
+    "source_sha256": "03d9e93dcc16aef0fcdb5ef587d9e00ba3bf919eb2d52ad9b90adbd28c17ccd3"
+  },
+  {
+    "file": "04-director.jpg",
+    "origin": "Unedited gameplay capture, only scaled and JPEG encoded",
+    "source_clip": "finale-act3-office",
+    "source_frame": "frame-00230.png",
+    "source_game": "0.20.1; RC2 has identical gameplay and art",
+    "capture": "actual Chaos, automated player input",
+    "source_sha256": "0001c733e34f34b46de986e1d9db284005090eb3eed55caa1a82ee0fc2c150d3"
+  }
+]

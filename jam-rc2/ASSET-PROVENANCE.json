@@ -1,0 +1,21 @@
+{
+  "icon": {
+    "origin": "OpenAI built-in image_gen tool",
+    "model": "not exposed by tool",
+    "reference": "actual Unreal gameplay puppet screenshot",
+    "prompt": "private archive art-source/branding/v0.21.0/IMAGEGEN-PROMPT.txt",
+    "output_sha256": "3254ff817cde9c57896230493bbff4bc343adcdd40dae610279fbc38cb194154"
+  },
+  "cover": {
+    "origin": "OpenAI built-in image_gen tool",
+    "model": "not exposed by tool",
+    "reference": "generated icon",
+    "mechanical_processing": "resize to 1260x1000, JPEG encode; no semantic edits"
+  },
+  "trailer": {
+    "origin": "approved Draft07, byte-identical copy",
+    "source_game": "0.20.1",
+    "capture": "actual Unreal gameplay, automated input, native 4K60; editorial crop/cursor/type and licensed audio mix",
+    "sha256": "314a6aacc03cddb97a228a5a6cffbfd631c0e5b126d8f3ca25c5a8a08a92efe9"
+  }
+}

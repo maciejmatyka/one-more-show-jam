@@ -1,0 +1,96 @@
+{
+  "version": "0.21.0 RC2",
+  "checks": [
+    {
+      "test": "Windows show flow",
+      "passed": true,
+      "assertions": 43
+    },
+    {
+      "test": "Android show flow",
+      "passed": true,
+      "assertions": 43
+    },
+    {
+      "test": "Android native touch/lifecycle",
+      "passed": true,
+      "assertions": 17
+    },
+    {
+      "test": "Historical StoryQA failure is confined to duplicate result-frame collection",
+      "passed": true,
+      "raw_assertions": 1268,
+      "raw_failed": [
+        {
+          "test": "director receives all three real scores",
+          "passed": false
+        }
+      ]
+    },
+    {
+      "test": "Exactly three distinct physical acts",
+      "passed": true
+    },
+    {
+      "test": "Act 1: repeated QA records describe the same result",
+      "passed": true,
+      "records": 1,
+      "score": 94.42201232910156
+    },
+    {
+      "test": "Act 2: repeated QA records describe the same result",
+      "passed": true,
+      "records": 1,
+      "score": 98.05136108398438
+    },
+    {
+      "test": "Act 3: repeated QA records describe the same result",
+      "passed": true,
+      "records": 198,
+      "score": 91.642578125
+    },
+    {
+      "test": "Office average equals three distinct real act scores",
+      "passed": true,
+      "mean": 94.705322265625
+    },
+    {
+      "test": "Real performance succeeds strictly above 90",
+      "passed": true
+    },
+    {
+      "test": "Core physics/cutting/scoring source is byte-identical after newline normalization",
+      "passed": true
+    },
+    {
+      "test": "APK contains custom launcher density artwork",
+      "passed": true,
+      "paths": [
+        "res/drawable-hdpi-v4/icon.png",
+        "res/drawable-ldpi-v4/icon.png",
+        "res/drawable-mdpi-v4/icon.png",
+        "res/drawable-xhdpi-v4/icon.png",
+        "res/drawable-xxhdpi-v4/icon.png",
+        "res/drawable-xxxhdpi-v4/icon.png",
+        "res/drawable/icon.png"
+      ]
+    },
+    {
+      "test": "Android update signing identity preserved",
+      "passed": true
+    }
+  ],
+  "windows_flow_assertions": 43,
+  "android_flow_assertions": 43,
+  "android_native_assertions": 17,
+  "actual_chaos_scores": [
+    94.42201232910156,
+    98.05136108398438,
+    91.642578125
+  ],
+  "actual_chaos_average": 94.705322265625,
+  "qa_fixture_limitation": "The old StoryQA records Act3 repeatedly while the standing ovation holds the Result phase. It therefore fails Acts.Num()==3 although the game saves three actual scores and the director computes their exact mean. Raw failure is retained, not converted to a pass. This verifier independently groups by act and validates the physical results and mean. ShowFlowQA separately tests the standing ovation and office display.",
+  "physical_phone_tested": false,
+  "subjective_audio_review": false,
+  "scope": "No gameplay redesign; explicit English-only contest configuration, version metadata and launcher artwork. Android native gestures were exercised on candidate01; the only subsequent C++ change is the opt-in ShowFlowQA language assertion, tested in the final APK."
+}

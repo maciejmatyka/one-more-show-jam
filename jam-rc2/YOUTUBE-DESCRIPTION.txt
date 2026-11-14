@@ -1,0 +1,27 @@
+Cut the strings. Win the crowd. Save the theatre.
+
+One puppet. Five strings. One last chance.
+
+Watch the shadow, cut the marionette's strings and recreate its performance using real physics. Master three rehearsals, then step into the Grand Finale with no shadow to guide you. Can you win over the audience and save Mr Bellamy's theatre?
+
+Play free on Windows and Android:
+https://maq.itch.io/the-last-show
+
+Explore our illustrated Glass Box development booklet — from the original hand-drawn idea to the finished jam game:
+https://maciejmatyka.github.io/one-more-show-jam/booklet-v3/
+
+THE LAST SHOW
+by Maciej Matyka
+Created for the 2026 Epic AI MegaJam — theme: Director's Cut.
+Built in Unreal Engine 5.8.4 with Chaos physics, in collaboration with OpenAI Codex.
+
+This trailer shows actual Unreal gameplay captured with automated input. Editing adds framing, a visualized cursor, titles and an audio mix; the physical outcomes and scores are real.
+
+Music: The Puppet Master.
+Music and selected sound effects licensed through WeLoveIndies — BOOM Library / Dynamedion — for this non-commercial project. The required WeLoveIndies intro appears at game startup.
+Thumbnail illustration: OpenAI ImageGen, based on the game's wooden marionette.
+
+Official jam:
+https://itch.io/jam/2026-epic-ai-megajam
+
+#EpicAIMegaJam #UnrealEngine #IndieGame
