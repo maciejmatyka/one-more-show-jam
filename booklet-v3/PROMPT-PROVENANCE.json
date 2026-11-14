@@ -1,0 +1,162 @@
+[
+  {
+    "prompt_id": "P0001",
+    "page": 3,
+    "english_excerpt": "First, let's brainstorm: give me 10 varied game ideas for the jam theme, Director's Cut. I will choose which ideas to develop.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "74d9e40f3307555902db4c5b6abd0cac17322b8659104ac2edd9a490c9db088d"
+  },
+  {
+    "prompt_id": "P0005",
+    "page": 4,
+    "english_excerpt": "Summarize whether this is an original idea and whether something like it already exists on the market. Do thorough research.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "37afed2930319bfbc64bef24f1940d465fc484a4a22fc20bf0051fb4ec63bccf"
+  },
+  {
+    "prompt_id": "P0006",
+    "page": 5,
+    "english_excerpt": "Imagine a ragdoll hanging from strings attached to its hands and feet ... It is also attached by the head. Everything uses full physics.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "fa166c3d8f025ef0f1d5528c242f5488641d9636b609455cb4ed65703bbe1cde"
+  },
+  {
+    "prompt_id": "P0014",
+    "page": 6,
+    "english_excerpt": "The first level should have two cuts - both the hand on the right and the one on the left - because now it is no challenge.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "505fe4d653ecf414657e3ad5d24d610e2467cc91b1aa9cd2818493710bdd468f"
+  },
+  {
+    "prompt_id": "P0020",
+    "page": 7,
+    "english_excerpt": "I liked the previous version more, when the differences from the shadow caused by a different physical arrangement were visible.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "e0cb6063aa5b84ae4e708b432125b5b0f5169cc0162005093dc8551106a695d8"
+  },
+  {
+    "prompt_id": "P0053",
+    "page": 8,
+    "english_excerpt": "In the first training scene in Act 1, I would like an example of a bad result of 24%, and only then the 95 with applause.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "508a019dbbb6b34dbc4e5c50253a3112a7b96a7d24a3a7a6240bfb98cfdccf50"
+  },
+  {
+    "prompt_id": "P0028",
+    "page": 9,
+    "english_excerpt": "Of course, in the Grand Finale there must no longer be a shadow; the player has to manage based on the training.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "c81860582d04f1dd8b31e81693c967ce7be4f93352d31dab48b0b0148749ef73"
+  },
+  {
+    "prompt_id": "P0036",
+    "page": 10,
+    "english_excerpt": "On the pedestal on the right in every scene, there should be a prop that clearly indicates which act we are in.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "88efa90df0e8f48a05bb80861b023773189706cae16e41d48ffc87670e242ea2"
+  },
+  {
+    "prompt_id": "P0029",
+    "page": 11,
+    "english_excerpt": "I would like to feel the difference between training and performing for an audience.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "4daf5c774570647e3af04ddae8438a7eaa9ac28d7cf2531eecf3ca8a9f24ad6e"
+  },
+  {
+    "prompt_id": "P0062",
+    "page": 12,
+    "english_excerpt": "The puppet has no mask, only a wooden face, and receives it with a particle effect as a reward after scoring above 90% three times.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "58caaddedecfec2f7500650476bedd1400b8db16de0daa1e862ed11f1280bf9d"
+  },
+  {
+    "prompt_id": "P0087",
+    "page": 13,
+    "english_excerpt": "After completing the act well, do not make Try again green.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "abbf433689c70fe9f6b97b97b1a97a7d06d5670e6b0fe57a8b5ce284b5d9d869"
+  },
+  {
+    "prompt_id": "P0047",
+    "page": 14,
+    "english_excerpt": "A more distinctive puppet silhouette, less geometric characters, and smoother animation for the director and audience.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "522ca25eaca16b472952860c0b7fe7966742795df3057daa076c31905ed04758"
+  },
+  {
+    "prompt_id": "P0037",
+    "page": 15,
+    "english_excerpt": "Record the game screen where someone cuts one of the strings, and transform it into lines like a pencil sketch.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "de87c95e0f923adb416df81e235d5a9c7ec0f980990aee73efbff7aba0348434"
+  },
+  {
+    "prompt_id": "P0047",
+    "page": 16,
+    "english_excerpt": "One clear, easily accessible comic moment, and more precise synchronization of gestures with sound.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "522ca25eaca16b472952860c0b7fe7966742795df3057daa076c31905ed04758"
+  },
+  {
+    "prompt_id": "P0086",
+    "page": 17,
+    "english_excerpt": "It is not about the spacing. The spacing was fine; the upper box was covering the heads of the people standing below.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "f6b103dfd307a779d4d163404e8c4cd947d0254d13504d26f0e0aaf490ad5065"
+  },
+  {
+    "prompt_id": "P0036",
+    "page": 18,
+    "english_excerpt": "It looks as if holding the button a little longer quickly turns off the shadow, and it should not catch that because the player does not want it.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "88efa90df0e8f48a05bb80861b023773189706cae16e41d48ffc87670e242ea2"
+  },
+  {
+    "prompt_id": "P0077",
+    "page": 19,
+    "english_excerpt": "It starts and is noticeably faster.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "f6114fce4f6a08c75f243978e0fa9c4dc342a92ee4bc4602d54e99ed82e09b26"
+  },
+  {
+    "prompt_id": "P0056",
+    "page": 20,
+    "english_excerpt": "I want it smooth, a full 60 fps ... with 100% frame-for-frame decoding and full 60 fps.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "9de50b2bbe59297dc06d11f79951e41a1e31957ce14832e8d0acc15d697decf9"
+  },
+  {
+    "prompt_id": "P0008",
+    "page": 21,
+    "english_excerpt": "Work in turns with corrections. Make the next version and keep it so that I can return to earlier ones by specifying them.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "73147934ff1fbc306fb54939df40824126ff7315340c19f0bc24b8e8b799fea7"
+  },
+  {
+    "prompt_id": "P0020",
+    "page": 23,
+    "english_excerpt": "We are not aiming for 100%, only roughly the same planned fall of the puppet.",
+    "original_language": "Polish",
+    "translation": "English editorial translation; ellipses indicate omissions.",
+    "original_source_sha256": "e0cb6063aa5b84ae4e708b432125b5b0f5169cc0162005093dc8551106a695d8"
+  }
+]

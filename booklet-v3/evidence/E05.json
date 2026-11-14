@@ -1,0 +1,193 @@
+{
+  "checks": [
+    {
+      "test": "Start particle reveal precedes enabled hitbox",
+      "passed": true
+    },
+    {
+      "test": "startup defaults to English",
+      "passed": true
+    },
+    {
+      "test": "Start is green and revealed",
+      "passed": true
+    },
+    {
+      "test": "language flags exist in letter",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "letter language choice translates catalog",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "letter language choice translates catalog",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "letter language choice translates catalog",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "language flags removed from main menu",
+      "passed": true
+    },
+    {
+      "test": "first prologue border guide armed",
+      "passed": true
+    },
+    {
+      "test": "puppet extremities fit between menu panels",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "reference preview still plays on first entry",
+      "passed": true
+    },
+    {
+      "test": "strict ninety marker boundary",
+      "passed": true
+    },
+    {
+      "test": "first hand cue matches screen right",
+      "passed": true
+    },
+    {
+      "test": "Act1 begins with brown Try again",
+      "passed": true
+    },
+    {
+      "test": "Try again stays brown while result counts",
+      "passed": true
+    },
+    {
+      "test": "failure guides green Try again",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "retry skips automatic preview",
+      "passed": true
+    },
+    {
+      "test": "retry immediately returns to brown",
+      "passed": true
+    },
+    {
+      "test": "successful next act reveals green",
+      "passed": true
+    },
+    {
+      "test": "successful Act1 keeps Try again brown",
+      "passed": true
+    },
+    {
+      "test": "rehearsal success rings once without applause",
+      "passed": true
+    },
+    {
+      "test": "Act3 begins with brown Try again",
+      "passed": true
+    },
+    {
+      "test": "successful Act3 keeps Try again brown",
+      "passed": true
+    },
+    {
+      "test": "Act2 begins with brown Try again",
+      "passed": true
+    },
+    {
+      "test": "exact ninety enables green retry",
+      "passed": true
+    },
+    {
+      "test": "exactly ninety grants no mask",
+      "passed": true
+    },
+    {
+      "test": "third distinct mastered act grants persistent mask notice",
+      "passed": true
+    },
+    {
+      "test": "mask award points to green Menu not next act",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "Grand Finale green with follow-up guide",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "requested button visible and enabled",
+      "passed": true
+    },
+    {
+      "test": "final act finishes counting before ovation",
+      "passed": true
+    },
+    {
+      "test": "100 100 80 gives standing ovation from average",
+      "passed": true
+    },
+    {
+      "test": "all twelve spectators visibly stand",
+      "passed": true
+    },
+    {
+      "test": "ovation automatically leads to successful director",
+      "passed": true
+    },
+    {
+      "test": "BONUS SHOW is green and revealed",
+      "passed": true
+    },
+    {
+      "test": "applause continues in office",
+      "passed": true
+    }
+  ],
+  "scope": "Isolated QA profile. Progression scores are synthetic. Bonus grab, flick, collisions and detachments use actual Chaos plus production ProcessPointer."
+}

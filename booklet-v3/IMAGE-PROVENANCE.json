@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "original-sketch",
+    "source": "GLASSBOX/iterations/0083-booklet/original-sketch.png",
+    "source_sha256": "04eec1d53a7a51f4b71344bad8361e74e1183b90ddf283b75362ec575832af34",
+    "crop_pixels": [
+      635,
+      766,
+      2601,
+      3145
+    ],
+    "source_dimensions": [
+      3024,
+      4032
+    ],
+    "output": "images/original-sketch.jpg",
+    "sha256": "ec24b12ee8d66e5a0e3198ff08e38fd04c70ada93c12bbf28120095d72cd0fbc",
+    "version": "Original concept, supplied by Maciej Matyka",
+    "kind": "Author\u2019s hand-drawn notebook sketch; created at the beginning according to the author",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "early",
+    "source": "publication/one-more-show-rc1/images/early.jpg",
+    "source_sha256": "c93e1700fab27e0ba7e0cb731cc3bef00c32b838ef8560c585480d0cdeaca1e1",
+    "crop_pixels": [
+      0,
+      0,
+      1072,
+      543
+    ],
+    "source_dimensions": [
+      1072,
+      543
+    ],
+    "output": "images/early.jpg",
+    "sha256": "26adf6e5bbeeab6538f5277a6765dc7eb139688d5654b4ce59b252abf1116a62",
+    "version": "v0.1.0",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "concept2",
+    "source": "visual-concepts/renders-final/V02.png",
+    "source_sha256": "1ee34c6f76905b64958a187c0b18b0f88990e3be8008bf67bd8afcd323d96547",
+    "crop_pixels": [
+      0,
+      0,
+      3840,
+      2160
+    ],
+    "source_dimensions": [
+      3840,
+      2160
+    ],
+    "output": "images/concept2.jpg",
+    "sha256": "5794415a2c8ffdc92524d6ddab12a3221fc40c70d03e7da211dc638adaf50909",
+    "version": "C03 visual research",
+    "kind": "Actual Unreal 5.9 concept render; abandoned heist direction",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "concept3",
+    "source": "visual-concepts/renders-final/V03.png",
+    "source_sha256": "0c926023773605f5a5c2fe66134f7162dc1e02656f53fe907ee665c9615932bb",
+    "crop_pixels": [
+      0,
+      0,
+      3840,
+      2160
+    ],
+    "source_dimensions": [
+      3840,
+      2160
+    ],
+    "output": "images/concept3.jpg",
+    "sha256": "2f285c70aef5944c8c4704ccdc57d3169fed5b69ebf8715e534b3a2652531010",
+    "version": "C03 visual research",
+    "kind": "Actual Unreal 5.9 concept render; abandoned heist direction",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "concept6",
+    "source": "visual-concepts/renders-final/V06.png",
+    "source_sha256": "357411c797fd8e5f2041486db00bbde449f00de7e5d1bd731d0fdce62d119e70",
+    "crop_pixels": [
+      0,
+      0,
+      3840,
+      2160
+    ],
+    "source_dimensions": [
+      3840,
+      2160
+    ],
+    "output": "images/concept6.jpg",
+    "sha256": "1d8f5d670fe3485d7776944d207c07bed5e135f298b420062eb36dd8b37ab79a",
+    "version": "C03 visual research",
+    "kind": "Actual Unreal 5.9 concept render; abandoned heist direction",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "shadow0",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00000.png",
+    "source_sha256": "b13d2a766d9f94641a0e5016c950f7c1e69fe4d77e256538519e4f8f34ecf561",
+    "crop_pixels": [
+      720,
+      335,
+      1229,
+      815
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/shadow0.jpg",
+    "sha256": "47a3cb4b0818c24750f0b5150f2d2d84902ec0f0ada21edbc40c4b2939b08ec1",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "shadow1",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00060.png",
+    "source_sha256": "4c4b36ef17bb927fc4000d4b05d746505485a8a2655152faddc3572ab370c119",
+    "crop_pixels": [
+      720,
+      335,
+      1229,
+      815
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/shadow1.jpg",
+    "sha256": "8d8e7fa618fbc05edfc7b4a9853a941d62f116383b5b05a68352dc408d507eb5",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "shadow2",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00120.png",
+    "source_sha256": "b2d5a646bc058e5cb0c2ef9583d2c91191b3f949e4812430fa827de93f0bf9e8",
+    "crop_pixels": [
+      720,
+      335,
+      1229,
+      815
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/shadow2.jpg",
+    "sha256": "9ad2d05d014969611398d07710384fd0183df72c47ce9335464862c341baa200",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "shadow3",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00180.png",
+    "source_sha256": "f8ecb4ecbcb2d3398d368073e0e5351d8caeff2a98287207d02b1eace2599383",
+    "crop_pixels": [
+      720,
+      335,
+      1229,
+      815
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/shadow3.jpg",
+    "sha256": "903dc7d863678dbbe30c3727b31b1415f7ba125b56848d845c26c6b1741f0b93",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "shadow4",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00240.png",
+    "source_sha256": "cf18122a3a573251e00e6a7c06b9b8846c3f09ed92255353f4ef79e66a4fc74a",
+    "crop_pixels": [
+      720,
+      335,
+      1229,
+      815
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/shadow4.jpg",
+    "sha256": "f0d87ce426369dc5094edd54a38b19892cb7a39bab85862a8b19e681ee48c1b6",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "bad0",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-failed-act1-review/frame-00000.png",
+    "source_sha256": "97fd0412563bff86c13588c8de89bb2ff209617a24b1f8e65dc7aff4f94f3877",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/bad0.jpg",
+    "sha256": "3bbd3b481efe4dddf1a156a2f42a0ec467eb609d4ad38d8042e8766ee6a5c2cd",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "bad1",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-failed-act1-review/frame-00060.png",
+    "source_sha256": "c6f25ea858a3e7f2522e7f4dd981515746e854f77db41d0d1b17114aee47cdc3",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/bad1.jpg",
+    "sha256": "a91417fdd98dab74f980aaf72288d6f544e5cfb733b9ca9e17e54486460e58c3",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "bad2",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-failed-act1-review/frame-00120.png",
+    "source_sha256": "61ea08a939f16a09207c1eb2602a4af9e4738328cf9dd0c3b6a9899127d71b7d",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/bad2.jpg",
+    "sha256": "51317b26de6bc734d4e2ec41f549d80a5e52edc01d5e8cd41037c9ea66f8e765",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "badscore",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-failed-act1-review/frame-00060.png",
+    "source_sha256": "c6f25ea858a3e7f2522e7f4dd981515746e854f77db41d0d1b17114aee47cdc3",
+    "crop_pixels": [
+      328,
+      797,
+      599,
+      912
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/badscore.jpg",
+    "sha256": "deba613ed9b017002f136f7cc7416ae51f555c148256120452f7a667fbb4e8f1",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "good0",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-review/frame-00000.png",
+    "source_sha256": "a7f7846d854502204439199a42479fad4270450602d066c751741fbe651b6c7e",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/good0.jpg",
+    "sha256": "67d05f141a218d7bb211e7858b48a8e5db1bd06d35af97ccc4fab686d3c52e96",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "good1",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-review/frame-00060.png",
+    "source_sha256": "2246fc8e58677b5b2419a7ee942ec95edfb82d2d0b0c7aca62ec6de38d8fdc9e",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/good1.jpg",
+    "sha256": "8bf72d2c6f9279fd87d7722b7839691527e5113229c4dbf4d3030cefb6dadbaa",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "good2",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-review/frame-00120.png",
+    "source_sha256": "13be4c483b3a45d9b67029eb652ae05a836b97899992378c9eeadb2242289c53",
+    "crop_pixels": [
+      710,
+      335,
+      1248,
+      788
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/good2.jpg",
+    "sha256": "0ded8e8108ab3a44b180fb6cd688644dd0f93c517bf12fef510246fe12d343f7",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "goodscore",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-review/frame-00060.png",
+    "source_sha256": "2246fc8e58677b5b2419a7ee942ec95edfb82d2d0b0c7aca62ec6de38d8fdc9e",
+    "crop_pixels": [
+      328,
+      797,
+      599,
+      912
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/goodscore.jpg",
+    "sha256": "8c85e98defbae09b2105a814cf50753ec2b8885f46a97c72026ae3c943b9314d",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "rehearsal",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-play/frame-00080.png",
+    "source_sha256": "31b22c90b34d33139982c6892e8a6a6099a7fbd190f87e5a1b9224be4886faeb",
+    "crop_pixels": [
+      480,
+      216,
+      1478,
+      821
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/rehearsal.jpg",
+    "sha256": "3931c34601c0d2f0816fe50ea259d663bf3c25c8850ff14329260a084c21f085",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "premiere",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/finale-act3-play/frame-00080.png",
+    "source_sha256": "ac138be6577a7b02ecae60d032c45349850ddaf2434e8b1b40df0a72febfebdf",
+    "crop_pixels": [
+      480,
+      216,
+      1478,
+      821
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/premiere.jpg",
+    "sha256": "2829f4c259a8bb5d1f3a4b51a1dceb984cdf33e566a2cffd97af43c913f874b1",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "puppet",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-ready/frame-00000.png",
+    "source_sha256": "e9a73b705c5f3e46689b8ceb795cc96f21828c50c9ab23e89cef911c31a90f6b",
+    "crop_pixels": [
+      730,
+      324,
+      1210,
+      778
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/puppet.jpg",
+    "sha256": "c82aa9f35284b7d4f4ea3107691cf8df0fb922e56d33a67a278069452a0ac363",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "mask-detail",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/rehearsal-act1-ready/frame-00000.png",
+    "source_sha256": "e9a73b705c5f3e46689b8ceb795cc96f21828c50c9ab23e89cef911c31a90f6b",
+    "crop_pixels": [
+      874,
+      346,
+      1018,
+      518
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/mask-detail.jpg",
+    "sha256": "26445c68da22fc598bf61acb618cc2b5508b0ff80fc4134ae3ba697b4b494e9d",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "film-menu",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/menu-unlocked/frame-00068.png",
+    "source_sha256": "9f21c1e3a9f71a6ba50e1ec9da21a3c10a44439135053b20635877daff3e5b31",
+    "crop_pixels": [
+      29,
+      130,
+      1891,
+      918
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/film-menu.jpg",
+    "sha256": "ec54780039104cff916c4b5885215cc6074f2556b294bbaac301573ccb005f22",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "film-director",
+    "source": "media/the-last-show-v01919-draft05-60fps/QA-film/Saved/ReleaseFilm/finale-act3-office/frame-00068.png",
+    "source_sha256": "56e2aecbe006978f72233ca93e0e8875afb8069647d9b6b5934c423da216c911",
+    "crop_pixels": [
+      230,
+      205,
+      864,
+      918
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/film-director.jpg",
+    "sha256": "8cef1337125d866e361f28321fdcefa335f4dbf8aa2ca71ae74cbd54db3f34b6",
+    "version": "v0.19.19 / Draft05, native 60 Hz",
+    "kind": "Actual Chaos, automated input; archived film source",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "act1",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00030.png",
+    "source_sha256": "e800ccd6cce7c39a46e726af32189d045fa4a87b09474a8bf648931e5e1e565b",
+    "crop_pixels": [
+      442,
+      238,
+      1498,
+      907
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/act1.jpg",
+    "sha256": "ff4d35fc13159e8ad265b508b573083cda9373f5f6b7fb2bf71323c580edbe28",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "prop1",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act1-preview/frame-00030.png",
+    "source_sha256": "e800ccd6cce7c39a46e726af32189d045fa4a87b09474a8bf648931e5e1e565b",
+    "crop_pixels": [
+      1344,
+      605,
+      1517,
+      886
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/prop1.jpg",
+    "sha256": "4e4c62ec4ef057f221cc86922098757ee5a3d559a377e9ff9a05d87a3f1661c0",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "act2",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act2-preview/frame-00030.png",
+    "source_sha256": "e3a5abf1af2efb65411d43d8e605b1bf31b1039c644ba788e9f0f3943f0d4c80",
+    "crop_pixels": [
+      442,
+      238,
+      1498,
+      907
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/act2.jpg",
+    "sha256": "ae3fc1ddcf6b76eecb6e634f36dcf0532fe2a0688619917eb99445f1caa8950d",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "prop2",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act2-preview/frame-00030.png",
+    "source_sha256": "e3a5abf1af2efb65411d43d8e605b1bf31b1039c644ba788e9f0f3943f0d4c80",
+    "crop_pixels": [
+      1344,
+      605,
+      1517,
+      886
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/prop2.jpg",
+    "sha256": "2f2619fe7e80adabde7284aac6a52c514a584ab0d38cb9dd682418047d02d7d6",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "act3",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act3-preview/frame-00030.png",
+    "source_sha256": "2c87a9b3acf2765cbdd727318354648feb8ed648f9db44576b7897b1a6a023d9",
+    "crop_pixels": [
+      442,
+      238,
+      1498,
+      907
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/act3.jpg",
+    "sha256": "732a81b17121ae5754ebcc728c0c91047f00e0b569922f702f2fd5c5342ac9c4",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "prop3",
+    "source": "media/the-last-show-v01914-draft01/QA-film/Saved/ReleaseFilm/rehearsal-act3-preview/frame-00030.png",
+    "source_sha256": "2c87a9b3acf2765cbdd727318354648feb8ed648f9db44576b7897b1a6a023d9",
+    "crop_pixels": [
+      1344,
+      605,
+      1517,
+      886
+    ],
+    "source_dimensions": [
+      1920,
+      1080
+    ],
+    "output": "images/prop3.jpg",
+    "sha256": "7847f03a0a9b7b653b4da3a379fb94e2f471fa4ebe26e1506263777e49d26e60",
+    "version": "v0.19.14",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "wood",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/next-act-guide.png",
+    "source_sha256": "143833f82af24e955bb72a5c52b72bd5838ac71c9a34e48e8a8d89c7d68b7e06",
+    "crop_pixels": [
+      608,
+      270,
+      1008,
+      648
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/wood.jpg",
+    "sha256": "4da3839e7b826190841cff41f87b85d5254c1c867fcf750cc1ca7c5c7f09278b",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "award",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/mask-award-burst.png",
+    "source_sha256": "dffd8b757c74b56c663405590dc3508492935e4652e27fa86bc8dd9fecf1cd2f",
+    "crop_pixels": [
+      464,
+      207,
+      1200,
+      666
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/award.jpg",
+    "sha256": "720286563ff98afb2a6d042db97e151a0e292292e6694242ea0a691621bb4a76",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "mask-notice",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/mask-notice-persistent.png",
+    "source_sha256": "b48f61ce7da39b193a1cb17c1a801525e80b5f33b8ba6c42ff400cec81eb7d0d",
+    "crop_pixels": [
+      520,
+      674,
+      1120,
+      734
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/mask-notice.jpg",
+    "sha256": "ad299a1a70e66596c3f8d0fefc3da57264dea200763203225a2d46a81185a65e",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "menu",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/menu-finale-guide.png",
+    "source_sha256": "943883a086b913bded80d41616c94e5d91e7f359f9a0293c4aa646f7aa44bb1c",
+    "crop_pixels": [
+      24,
+      108,
+      1576,
+      765
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/menu.jpg",
+    "sha256": "1e6e40d70a49f73abef1a0d686e60c651d6c218068e16590e92c1e4b0eb9c1c8",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "retry-brown",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/next-act-guide.png",
+    "source_sha256": "143833f82af24e955bb72a5c52b72bd5838ac71c9a34e48e8a8d89c7d68b7e06",
+    "crop_pixels": [
+      376,
+      819,
+      680,
+      886
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/retry-brown.jpg",
+    "sha256": "7a13cc4e0704e2008b37abbe4badef74b9551b75b2da8b12319f8dc2d63a3368",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "retry-green",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/retry-guide.png",
+    "source_sha256": "fa54d41102b07efdc3b9bc41bb13301233005d70904efb073a8a6064408f60cd",
+    "crop_pixels": [
+      376,
+      819,
+      680,
+      886
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/retry-green.jpg",
+    "sha256": "9890c4546d87cdeb3bc812f03c689ab5486e272f4ec54029387582bacbd81b85",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "next",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/next-act-guide.png",
+    "source_sha256": "143833f82af24e955bb72a5c52b72bd5838ac71c9a34e48e8a8d89c7d68b7e06",
+    "crop_pixels": [
+      1056,
+      675,
+      1296,
+      756
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/next.jpg",
+    "sha256": "379b017c6b74f4ba72630516c86d622c883d4ab45250f0591d9a564e516c86a7",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "start",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/start-particle-reveal.png",
+    "source_sha256": "38db224daebd7f3e7f60d52fd1f9fb60e2caa545d6a772d5263b4dea8d3444f6",
+    "crop_pixels": [
+      1008,
+      684,
+      1328,
+      810
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/start.jpg",
+    "sha256": "d325ee4ce8ec408ef4bfe9ba155101392010a630af0d23c6a7391393c9aa681e",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "final-act",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/standing-ovation.png",
+    "source_sha256": "1794d0b6a4139c2d922ecf14f0a49cfb540afae063b9fd94b2ed3273ae7c951b",
+    "crop_pixels": [
+      256,
+      652,
+      1336,
+      792
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/final-act.jpg",
+    "sha256": "795b219305cb04f7420fdde1987e15fd76a7e16b8e5a1862ee5985249b4012f3",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "office",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/bonus-show-unlock.png",
+    "source_sha256": "0618327f8b6f1efae8241480444d43b12af35fe83c517dd9615a4d5dc1f1c642",
+    "crop_pixels": [
+      24,
+      36,
+      1568,
+      832
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/office.jpg",
+    "sha256": "97778260e6d41cc8e0046e6e77688d97fc77a74a0559a920fb84efa6009806a4",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "director",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/bonus-show-unlock.png",
+    "source_sha256": "0618327f8b6f1efae8241480444d43b12af35fe83c517dd9615a4d5dc1f1c642",
+    "crop_pixels": [
+      176,
+      171,
+      720,
+      801
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/director.jpg",
+    "sha256": "c9b479729e97489fbdb7c74802cdd1229963267193a96a5d07c6245347cd16f3",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "office-average",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/bonus-show-unlock.png",
+    "source_sha256": "0618327f8b6f1efae8241480444d43b12af35fe83c517dd9615a4d5dc1f1c642",
+    "crop_pixels": [
+      816,
+      648,
+      1504,
+      756
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/office-average.jpg",
+    "sha256": "420f5bb6f0333ea75920f779be8350325df9cc41eed276e13f19ebf21779505e",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "letter-sketch",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/letter-start.png",
+    "source_sha256": "1a53587d3efa1b2569e4de272074ce369ec747f410f564d1a9be5d58d2363cee",
+    "crop_pixels": [
+      1016,
+      171,
+      1304,
+      495
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/letter-sketch.jpg",
+    "sha256": "2ba3b6d4587d91829c30b695bbdecade98f6b557bf90b733ee5063ccfcd1f4e7",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "crowd",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/windows-showflow-final/standing-ovation.png",
+    "source_sha256": "1794d0b6a4139c2d922ecf14f0a49cfb540afae063b9fd94b2ed3273ae7c951b",
+    "crop_pixels": [
+      56,
+      207,
+      384,
+      657
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/crowd.jpg",
+    "sha256": "b9dba9d8645a1b593f32d5381b1d41262e9f8a828f2d5d9c9f26d2131eaedbdf",
+    "version": "v0.20.1",
+    "kind": "Actual Unreal presentation; explicit synthetic QA scores",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "old-puppet",
+    "source": "publication/one-more-show-rc1/images/hero.jpg",
+    "source_sha256": "5c530b561402777540cd6624b02fbd0665c41e6b1f78a9803251b13111b4d549",
+    "crop_pixels": [
+      544,
+      153,
+      1072,
+      711
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/old-puppet.jpg",
+    "sha256": "ed4170a070466acc45a2ea4b568399a29fe92b33e5ffa4c6e5d4d8bb6a33f144",
+    "version": "v0.18.0",
+    "kind": "Actual Unreal capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "old-letter",
+    "source": "publication/one-more-show-rc1/images/pencil.jpg",
+    "source_sha256": "5656a588700c588fd0a5b1a02132492fd77b9079f13d6693b7d12497dc718e89",
+    "crop_pixels": [
+      0,
+      0,
+      320,
+      400
+    ],
+    "source_dimensions": [
+      320,
+      400
+    ],
+    "output": "images/old-letter.jpg",
+    "sha256": "a65bc0b8abd74d3c27f33260ae980bbf801a486878cb748f7e2aecd030ae620e",
+    "version": "v0.16.1",
+    "kind": "Actual-gameplay graphite conversion",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "hat",
+    "source": "GLASSBOX/iterations/0060-finale-evidence/hat-stages-baseline.png",
+    "source_sha256": "519a68a682d8af63a4f306e6e5744d1d0d53146bf41a30f73b0bfcf380056a8f",
+    "crop_pixels": [
+      0,
+      0,
+      1500,
+      310
+    ],
+    "source_dimensions": [
+      1500,
+      620
+    ],
+    "output": "images/hat.jpg",
+    "sha256": "3c1fd335c5146be400d8be56d4468a74983e83c8e60baadcc465789a57db0a3d",
+    "version": "v0.19.14",
+    "kind": "Five cropped moments from procedural office performance; synthetic success fixture",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "occlusion-before",
+    "source": "GLASSBOX/iterations/0080-show-flow/windows-showflow-final/standing-ovation.png",
+    "source_sha256": "90d32f5ac7c4f1761b814e6e49042aadd57f11eba2b61552f8ea1890ad97cd6c",
+    "crop_pixels": [
+      56,
+      207,
+      384,
+      657
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/occlusion-before.jpg",
+    "sha256": "b626289cac1eabde093e6fbaaf920beca238fc7c32cff311483ea03cfc11fd37",
+    "version": "v0.20.0 rejected spacing iteration",
+    "kind": "Actual Unreal QA presentation",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "bonus",
+    "source": "GLASSBOX/iterations/0080-show-flow/windows-bonus8-final/bonus-after-throw.png",
+    "source_sha256": "f58edfe2a89c257b4863c638e7a8edb98719898edba49ca247cb41b2db5a4435",
+    "crop_pixels": [
+      368,
+      135,
+      1232,
+      756
+    ],
+    "source_dimensions": [
+      1600,
+      900
+    ],
+    "output": "images/bonus.jpg",
+    "sha256": "65cc4abef4a4f88ef0c95e449f084498c37cb5996eed0459dc5aebeee87fb686",
+    "version": "v0.20.0",
+    "kind": "Actual Chaos impact / automated QA",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "android",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/native-android/04-live-ready.png",
+    "source_sha256": "03f93b5da1d2434de68d211465a660e01ffb355989ed8972689b4ed0f7986631",
+    "crop_pixels": [
+      246,
+      86,
+      2214,
+      972
+    ],
+    "source_dimensions": [
+      2460,
+      1080
+    ],
+    "output": "images/android.jpg",
+    "sha256": "9c8d2accd7ab618696132d32b3460a97df430cf6c9f6bbcce244da0d1b473d9a",
+    "version": "v0.20.1 Android",
+    "kind": "Actual Android emulator capture, native touch test",
+    "edit": "Crop and proportional resample only; no retouching."
+  },
+  {
+    "id": "phone-letter",
+    "source": "GLASSBOX/iterations/0081-hud-verdict/native-android/01-letter-en.png",
+    "source_sha256": "e1e9bdf41ab792a7123663cc4d4f5efc8bec287f2008b22a70ff4c504ff5efd4",
+    "crop_pixels": [
+      271,
+      108,
+      2189,
+      972
+    ],
+    "source_dimensions": [
+      2460,
+      1080
+    ],
+    "output": "images/phone-letter.jpg",
+    "sha256": "cb63c154bbb8832dbaec27c1162f040a6edd22caf707cd58a9e1e80a76649c6e",
+    "version": "v0.20.1 Android",
+    "kind": "Actual Android emulator capture",
+    "edit": "Crop and proportional resample only; no retouching."
+  }
+]

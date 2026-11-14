@@ -1,0 +1,25 @@
+{
+  "version": "v0.20.1",
+  "tag": "playtest-v0.20.1",
+  "code_commit": "170cac1b5f1ec063616dd3d1229bf10c8598ba2d",
+  "packages": [
+    {
+      "name": "TheLastShow-v0.20.1-Windows.zip",
+      "bytes": 390272615,
+      "sha256": "609bc452c9ab63c29f6ff4f1a00f8120607c38c12bb31258f0078a924081dcc8",
+      "verified": true
+    },
+    {
+      "name": "TheLastShow-v0.20.1-Unreal-source.zip",
+      "bytes": 124841506,
+      "sha256": "7ca26103d06b204f355708849a2dc65adbc0391173a18fb0db4380c6bd314720",
+      "verified": true
+    },
+    {
+      "name": "TheLastShow-v0.20.1-Android-alpha01.apk",
+      "bytes": 185726323,
+      "sha256": "15d508e69821c3392ab848151f85150d15d3811a8c3e708b9bde071fb89255ea",
+      "verified": true
+    }
+  ]
+}

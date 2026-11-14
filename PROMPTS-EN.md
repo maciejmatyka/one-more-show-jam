@@ -1,5 +1,15 @@
 # One More Show - prompt archive (English)
 
+## Full prompt list
+
+[Full prompt list — original production chat (Polish), including Codex replies](https://maciejmatyka.github.io/one-more-show-jam/booklet-v3/FULL-CHAT-PL.html)
+
+[Full prompt list — English translation, including Codex replies](https://maciejmatyka.github.io/one-more-show-jam/booklet-v3/FULL-CHAT-EN.html)
+
+These separate complete records contain 87 user messages and 606 Codex replies/updates, through the original-sketch request of 14 November 2026. The English transcript is machine-assisted, with all user prompts and selected replies editorially revised by Codex; the Polish record is authoritative. The 45 translations below are the preserved historical RC1 selection.
+
+---
+
 These are English translations of all 45 available project user messages, in their recorded order. They retain the instructions and decisions; spelling and punctuation are normalized in translation. Question/reply envelopes are rendered as readable exchanges; internal tool-call identifiers are omitted. This is not a verbatim English transcript. Original Polish files, visible assistant responses, code, variants and tool evidence remain in the private development archive.
 
 **\* Translated from the original Polish prompt.**
